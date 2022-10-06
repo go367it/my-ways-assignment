@@ -11,7 +11,7 @@ export default function App() {
   const [astronomy, setAstronomy] = useState([{}]);
   const [atmosphere, setAtmosphere] = useState([{}]);
   // const [image, setImage] = useState("");
-  // const
+  // const jhv
 
   useEffect(() => {
     const data = weather[0].query.results.channel;
